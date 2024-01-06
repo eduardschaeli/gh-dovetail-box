@@ -1,4 +1,6 @@
 # Grasshopper dovetail box generator
+**Disclaimer: This design hasn't been tested yet with actual wood**
+
 My first attempt at a parametric design in Grasshopper, which is a plugin for [Rhino3d](https://www.rhino3d.com/)
 ![Box screenshot](screenshot1.png)
 
